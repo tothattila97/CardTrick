@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CardTrick</string>
+    <string name="description">Choose your appropriate card back or coin, then press the Start button!</string>
+    <string name="start">Start!</string>
+    <string name="notification1">Örülünk, hogy használtad a trükköt</string>
+    <string name="notification2">Kérjük, értékelj minket</string>
+    <string name="blue">blue</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="quadollar">quadollar</string>
+    <string name="ketszazft">ketszazft</string>
+    <string name="help">Súgó</string>
+    <string name="recycleblue">Bicycle blue back</string>
+    <string name="recyclered">Bicycle red back</string>
+    <string name="recyclegreen">Bicycle green back</string>
+    <string name="recyclequater">Quater dollar</string>
+    <string name="recycleketszaz">Ketszaz forint</string>
+</resources>

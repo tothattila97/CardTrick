@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_resources">
+        <item>Bicycle blue back</item>
+        <item>Bicycle red back</item>
+        <item>Bicycle green back</item>
+        <item>Quater dollar</item>
+        <item>Ketszaz forint</item>
+    </string-array>
+</resources>
